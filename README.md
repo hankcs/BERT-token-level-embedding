@@ -19,7 +19,7 @@ bert-serving-start -model_dir . -pooling_strategy NONE -show_tokens_to_client -m
 
 ## 2. Generate embeddings
 
-Put the text you want to embedding to `input.txt` :
+Put the text you want to embed into `input.txt` :
 
 ```
 Hello World !
